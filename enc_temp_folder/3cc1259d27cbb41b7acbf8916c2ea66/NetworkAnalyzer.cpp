@@ -9,7 +9,7 @@ NetworkAnalyzer::NetworkAnalyzer(QWidget *parent)
 
     ui.StartSniffingButton->setIcon(QIcon("./Assets/Icons/play.png"));
 
-    ui.StopSniffingButton->setIcon(QIcon("./Assets/Icons/Stop.png"));
+    ui.StopSniffingButton->setIcon(QIcon("/Users/Qureshi - Octdaily/Desktop/NED/DSA FINAL PROJECT/FINAL FINAL/network-analyzer/Assets/Icons/Stop.png"));
  
 }
 
